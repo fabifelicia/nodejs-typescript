@@ -11,3 +11,5 @@ Armazenamento dos dados em arquivos .txt
   * query-string [npm i query-string]
   * url
   * fs
+
+Obs: Antes de rodar a aplicação, criar pasta users no diretorio
